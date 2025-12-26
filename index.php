@@ -3,9 +3,9 @@
 // DATABASE CONNECTION
 // ------------------------------------------------------------
 $host = "elvisdb";
-$user = "patels184";
-$pass = "11GreenApples!18!";   
-$db   = "patels184";
+$user = "xx";
+$pass = " ******** ";   
+$db   = "xx";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
@@ -668,3 +668,4 @@ if (isset($_POST['sp1'])) {
 </div> <!-- page-wrapper -->
 </body>
 </html>
+
